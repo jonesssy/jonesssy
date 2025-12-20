@@ -23,6 +23,6 @@ I'm a soon-to-graduate Business Information Technology student at Häme Universi
 
 - 🖼️ [Portfolio](https://jonimitronen-portfolio.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joni-mitronen-56127138a/)
-- 🏫 [HAMK School GitHub](https://github.com/HAMK-ICT)
+- 🏫 [HAMK School GitHub](https://github.com/joni23008)
 
 ---
